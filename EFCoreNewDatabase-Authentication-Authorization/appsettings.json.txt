@@ -1,0 +1,15 @@
+{
+    "Data": {
+      "Blog": {
+        "ConnectionString": "Server=bitsql.wctc.edu;Database=Blog_12_BFS;User ID=bsoule;Password=000531268"
+      },
+      "BlogIdentity": {
+        "ConnectionString": "Server=bitsql.wctc.edu;Database=BlogIdentity_12_BFS;User ID=bsoule;Password=000531268"
+      }
+    },
+    "_comment": {
+        "##": "last 2 digits of CRN",
+        "XXX": "your initials"
+    }
+}
+
